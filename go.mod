@@ -1,4 +1,4 @@
-module github.com/cosmos/sdk-application-tutorial
+module github.com/luketighe/nameservice
 
 go 1.12
 
